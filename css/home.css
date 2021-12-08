@@ -1,0 +1,9 @@
+main .main-about .fw-light {
+  font-size: 20px;
+}
+section .row .col-md-4 .form {
+  display: flex;
+}
+footer {
+  background-color: #f2f2f2;
+}
